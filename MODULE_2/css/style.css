@@ -5,14 +5,13 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: sans-serif, fantasy;
 	color: #000000;
 	text-align: center;
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #EAB9B9;
 
 }
 
@@ -32,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: #ffcc00;
 	width: 100%;
 	height: 200px;
 	font-family: Helvetica;
@@ -52,7 +51,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #ff8400;
 }
 
 #beef {
@@ -66,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: #00ffa6;
 }
 
 #sushi {
@@ -79,7 +78,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #ff00cc;
 	color: white;
 	padding: 5px;
 }
